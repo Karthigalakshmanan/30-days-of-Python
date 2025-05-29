@@ -11,6 +11,8 @@ Write a program that prints "Hello, World!" and your name:
 ```python
 print("Hello world!, I'm Karthiga Lakshmanan")
 ```
-![image](https://github.com/user-attachments/assets/161c501e-2095-42de-8302-63c12c43aeff)
+
+![image](https://github.com/user-attachments/assets/742aa4f2-aa9e-4193-9b1d-0d39ebc7b366)
+
 
 
