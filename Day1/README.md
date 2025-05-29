@@ -9,6 +9,7 @@
 Write a program that prints "Hello, World!" and your name:
 
 ```python
-print("Hello, World! I'm Karthiga Lakshmanan")
-
+print("Hello world!, I'm Karthiga Lakshmanan")
+```
 ![image](https://github.com/user-attachments/assets/47264ac8-0d58-400b-9596-133004362776)
+
