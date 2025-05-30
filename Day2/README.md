@@ -9,10 +9,20 @@ Variables: used to store data
 - Calculate the area of a rectangle using user-input length and width
 
 ```python
+# Get User input for length and width
 
+length=float(input("Enter the length of the rectangle: "))
+width=float(input("Enter the width of the rectangle: "))
+
+# calculate the Area
+area= length* width
+
+# Display the Area
+print(f"The area of the rectangle is:  {area} square units")
 ```
 
-![image]()
+![image](![image](https://github.com/user-attachments/assets/44ae4a0b-fab8-4fa5-82ba-99b295024957)
+)
 
 
 
