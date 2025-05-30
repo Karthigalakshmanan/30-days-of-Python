@@ -21,8 +21,8 @@ area= length* width
 print(f"The area of the rectangle is:  {area} square units")
 ```
 
-![image](![image](https://github.com/user-attachments/assets/44ae4a0b-fab8-4fa5-82ba-99b295024957)
-)
+![image](![image](https://github.com/user-attachments/assets/1e2421ef-643a-46b0-b78e-f0aee358ba0d))
+
 
 
 
