@@ -32,7 +32,7 @@ print(f"The area of the rectangle is:  {area} square units")
 - Understanding data types is essential for writing bug-free code.
 
 
-- Today’s challenge wasn’t just about calculating area — it’s about understanding how to make Python interact with real-world data, and how different types (text, numbers, decimals, true/false) play roles in every program we write.
+# Today’s challenge wasn’t just about calculating area — it’s about understanding how to make Python interact with real-world data, and how different types (text, numbers, decimals, true/false) play roles in every program we write.
 
 
 
