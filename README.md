@@ -10,8 +10,8 @@ Each folder contains:
 
 | Day | Topic                      | Link           |
 |-----|----------------------------|----------------|
-| 01  | Intro & Setup              | [Day01](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day1) |
-| 02  | Variables & Data Types     | [Day02])(https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day2) |
+| 01  | Intro & Setup              | [Day1](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day1) |
+| 02  | Variables & Data Types     |[Day2](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day2) |
 
 
 ## ✨ Motivation
