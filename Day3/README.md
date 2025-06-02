@@ -69,3 +69,8 @@ print("Inventory Items:")
 for item, qty in inventory.items():
     print(f" - {item.title()}: {qty}")
 print("Warehouse Zones:", warehouse_zones)
+
+--------------------------------------------------
+📢 Please check out the Day 3 post on LinkedIn!
+--------------------------------------------------
+
