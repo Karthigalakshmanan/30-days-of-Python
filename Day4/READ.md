@@ -30,4 +30,4 @@ elif num > 1:
 else:
    print(num,"is not a prime number")
 ```
-###📢 Please check out the Day 3 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_day4of30-python-30daysofpython-activity-7335486387850289152-SkcL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
+###📢 Please check out the Day 4 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_day4of30-python-30daysofpython-activity-7335486387850289152-SkcL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
