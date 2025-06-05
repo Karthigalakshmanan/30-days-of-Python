@@ -30,7 +30,7 @@ They can be:
 ## 🎯 Challenge
 
 ### 👉 Task:
-**Write a function to compute the sum and average of a list of numbers.**
+** Write a function that calculates the sum and average of a list of numbers using both a regular function and a lambda expression.**
 
 ### ✅ Solution:
 ```python
@@ -66,3 +66,4 @@ print (f"Sum of numbers:{total}")
 print (f"Averageof numbers:{average:.2f}")
 ```
 
+###📢 Please check out the Day 4 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_30daysofpython-python-dataanalytics-activity-7336217186832719874-9roU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
