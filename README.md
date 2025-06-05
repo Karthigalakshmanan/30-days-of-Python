@@ -14,6 +14,7 @@ Each folder contains:
 | 2  | Variables & Data Types     |[Day2](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day2) |
 | 3  | Lists, Tuples, Dictionaries & Sets | [Day3](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day3) |
 | 4  | Control Structures| [Day4](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day4/READ.md) |
+| 5  | Functions| [Day5](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day5/Read.MD) |
 
 
 ## ✨ Motivation
