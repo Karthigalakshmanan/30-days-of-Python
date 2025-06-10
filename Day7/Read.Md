@@ -34,3 +34,8 @@ with open("sample.txt", "r") as f:
 print("📊 Word Frequencies:")
 for word, count in word_counts.items():
     print(f"{word}: {count}")
+
+```
+
+### 📢 Please check out the Day 7 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_python-filehandling-linkedinlearning-activity-7338021455718191104-sYNk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
+
