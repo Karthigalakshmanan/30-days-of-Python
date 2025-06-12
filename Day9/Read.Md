@@ -43,3 +43,4 @@ class ElectricCar(Car):
 ev = ElectricCar("Tesla", "Model S", 2024, "Red", 100)
 ev.display_info()
 ```
+### 📢 Please check out the Day 9 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_python-oop-inheritance-activity-7338782884591259650-pO6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
