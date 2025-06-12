@@ -17,6 +17,7 @@ Each folder contains:
 | 5  | Functions| [Day5](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day5/Read.MD) |
 | 6  | Modules and Packages| [Day6](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day6/Read.md) |
 | 7  | File Handling| [Day7](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day7/Read.Md) 
+| 8  | OOP — Part 1| [Day8](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day8/Read.md) 
 
 
 
