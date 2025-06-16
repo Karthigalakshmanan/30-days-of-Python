@@ -37,4 +37,6 @@ except Exception as e:
 finally:
     print("✅ Done reading the file.")
 ```
+### 📢 Please check out the Day 10 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_python-dataanalytics-exceptionhandling-activity-7340241174726701057-rokH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
+
 
