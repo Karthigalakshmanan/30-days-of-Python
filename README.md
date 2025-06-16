@@ -19,7 +19,7 @@ Each folder contains:
 | 7  | File Handling| [Day7](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day7/Read.Md) 
 | 8  | OOP — Part 1| [Day8](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day8/Read.md) 
 | 9  | OOP — Part 2| [Day9](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day9/Read.Md) 
-
+| 10  | Exception Handling| [Day10](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day10) 
 
 ## ✨ Motivation
 
