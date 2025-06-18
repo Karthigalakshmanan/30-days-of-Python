@@ -21,6 +21,7 @@ Each folder contains:
 | 9  | OOP — Part 2| [Day9](https://github.com/Karthigalakshmanan/30-days-of-python/blob/main/Day9/Read.Md) |
 | 10  | Exception Handling| [Day10](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day10) |
 | 11 | Dates and Times| [Day11](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day%2011) |
+| 12 | Regular Expressions| [Day12](https://github.com/Karthigalakshmanan/30-days-of-python/tree/main/Day%2012) |
 
 ## ✨ Motivation
 
