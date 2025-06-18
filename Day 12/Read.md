@@ -34,3 +34,6 @@ if re.search(pattern, email):
 else:
     print("❌ Invalid Gmail address")
 ```
+### 📢 Please check out the Day 11 post on [LinkedIn!](https://www.linkedin.com/posts/karthiga-lakshmanan_30daysofpython-python-regex-activity-7340930251817947137-CZwK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ2IrAB4tvB8B6NZStCzsJHzXhLsxGLlPI)
+
+
